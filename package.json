@@ -1,6 +1,6 @@
 {
   "name": "qrme",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A qrcode generator",
   "main": "index.js",
   "bin": {
