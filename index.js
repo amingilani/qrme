@@ -26,6 +26,6 @@ prompt.get(schema, function(err, result) {
     // Log the qrcode
     qrcode.generate(result.string);
     // randomly flatter myself -- because I *am* writing this for myself
-    console.log('Do you know why you\'re aweosme?');
+    console.log('Do you know why you\'re awesome?');
     console.log(flatter);
 });
