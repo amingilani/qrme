@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/amingilani/qrme/issues"
   },
-  "homepage": "https://github.com/amingilani/qrme#readme"
+  "homepage": "https://github.com/amingilani/qrme#readme",
+  "dependencies": {
+    "prompt": "^1.0.0",
+    "qrcode-terminal": "^0.10.0"
+  }
 }
