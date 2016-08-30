@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 // require the needed things
 const prompt = require('prompt');
 const qrcode = require('qrcode-terminal');
