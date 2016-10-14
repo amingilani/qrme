@@ -1,13 +1,14 @@
 {
   "name": "qrme",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "A qrcode generator",
   "main": "index.js",
   "bin": {
     "qrme": "./index.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
   },
   "repository": {
     "type": "git",
@@ -26,6 +27,6 @@
   "homepage": "https://github.com/amingilani/qrme#readme",
   "dependencies": {
     "prompt": "^1.0.0",
-    "qrcode-terminal": "^0.10.0"
+    "qrcode-terminal": "^0.11.0"
   }
 }
